@@ -1,14 +1,15 @@
 {
 	"pluginName": "ImpactFactor",
-	"description": "Little tool for quick journal IF search",
+	"description": "一个用来用来查影响因子的小工具",
 	"main": "index.html",
+	"author": "KR0AITY",
 	"version": "1.0.0",
 	"preload":"preload.js",
 	"logo": "res/icon.jpg",
 	"features": [
 	    {
 			"code": "ifs",
-			"explain": "hello world",
+			"explain": "查询影响因子",
 	        "cmds":["ifs", "impact"]
 	    }
 	]

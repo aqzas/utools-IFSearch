@@ -4,7 +4,7 @@ const { readFileSync } = require('fs')
 
 readjson = function () {
 
-    const if_data  = JSON.parse(readFileSync("/Users/kroaity/Documents/utlools/IFS/assets/if.json"));
+    const if_data  = JSON.parse(readFileSync(__dirname + "/res/if.json"));
     return if_data;
 }
 
