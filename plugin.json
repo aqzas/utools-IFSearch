@@ -1,0 +1,15 @@
+{
+	"pluginName": "ImpactFactor",
+	"description": "Little tool for quick journal IF search",
+	"main": "index.html",
+	"version": "1.0.0",
+	"preload":"preload.js",
+	"logo": "res/icon.jpg",
+	"features": [
+	    {
+			"code": "ifs",
+			"explain": "hello world",
+	        "cmds":["ifs", "impact"]
+	    }
+	]
+}
