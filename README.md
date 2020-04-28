@@ -1,7 +1,7 @@
 ## 概览 Overview
 一个用来用来查影响因子的小工具，用的是2019年统计的的数据。
 
-A tool used for query journals' **IMPACT FACTOR** (2019)
+A tool used for query journals' **IMPACT FACTOR** (source from 2019 published data)
 
 
 
