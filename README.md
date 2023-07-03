@@ -11,4 +11,4 @@ A **utools** plugin used for query journals' **IMPACT FACTOR** (source from 2019
 
 type `ifs` in utools, then input the journal name in search bar, fuzzy search is supported.
 
-![](2020-04-29 03.24.25.gif)
+![Usage](2020-04-29 03.24.25.gif)

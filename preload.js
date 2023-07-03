@@ -3,8 +3,7 @@ const { readFileSync } = require('fs')
 
 
 readjson = function () {
-
-    const if_data  = JSON.parse(readFileSync(__dirname + "/res/if.json"));
+    const if_data  = JSON.parse(readFileSync(__dirname + "/res/if2023.json"));
     return if_data;
 }
 
