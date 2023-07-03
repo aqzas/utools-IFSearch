@@ -1,4 +1,5 @@
 ## 概览 Overview
+
 一个用来用来查影响因子的小工具，用的是2019年统计的的数据。
 
 A **utools** plugin used for query journals' **IMPACT FACTOR** (source from 2019 published data)
@@ -11,4 +12,4 @@ A **utools** plugin used for query journals' **IMPACT FACTOR** (source from 2019
 
 type `ifs` in utools, then input the journal name in search bar, fuzzy search is supported.
 
-![Usage](2020-04-29 03.24.25.gif)
+![Usage](Usage.gif)
