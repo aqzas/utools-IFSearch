@@ -4,7 +4,11 @@
 
 A **utools** plugin used for query journals' **IMPACT FACTOR** (source from 2019 published data)
 
+## Install
 
+下载最新的.upx文件, 选中复制之后打开utools进行安装
+
+Download the latest release version .upx file, copy the file and open utools for install.
 
 ## 用法 Usage 
 
